@@ -1,9 +1,9 @@
 
-——
+---
 layout: post
 title: Price prediction model with multivariate linear regression in Python
 date: 2017-07-16 15:00:00
-——
+---
 
 ### Introduction
 
