@@ -1,9 +1,6 @@
 
----
-layout: post
-title: Price prediction model with multivariate linear regression in Python
-date: 2017-07-16 15:00:00
----
+# Price prediction model with multivariate linear regression in Python
+***
 
 ### Introduction
 
@@ -12,6 +9,7 @@ Multivariate linear regression is a simple statistical technique to make predict
 Here, I will be using a [dataset](https://www.kaggle.com/orgesleka/used-cars-database) for used cars from Kaggle. The reason I chose this dataset was because it contains several continuous and categorical variables, which make the model building interesting. Also, it provides an opportunity to understand how to use categorical variables in a regression model since they cannot be used directly. This topic, however, will be discussed in the next post, which will shotly follow this post.
 
 With that said, let us begin building our model...
+***
 
 ### Importing necessary python libraries
 
@@ -450,7 +448,7 @@ rot = g.set_xticklabels(g.get_xticklabels(), rotation=90)
 ```
 
 
-![Brand Distribution]({{site.url}}/assets/UsedCarPrices/output_22_0.png)
+![png](output_22_0.png)
 
 
 *Filter rows based on a value*
