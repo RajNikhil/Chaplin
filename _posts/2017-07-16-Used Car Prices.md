@@ -40,7 +40,7 @@ To import the data from a CSV file, Pandas has a function called ```DataFrame.re
 
 
 ```python
-df_auto = pd.read_csv('/Users/rajnikhil/Documents/Analytics/used-cars-database/autos.csv', encoding='latin-1')
+df_auto = pd.read_csv('.../autos.csv', encoding='latin-1')
 ```
 
 
