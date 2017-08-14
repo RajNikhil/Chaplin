@@ -878,7 +878,7 @@ plt.title("Prices vs Predicted Prices: $Y_i$ v $\hat{Y}_i$")
 
 
 
-![Actual v Predicted Prices](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.pngoutput_66_1.png)
+![Actual v Predicted Prices]({{site.url}}https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.pngoutput_66_1.png)
 
 
 
