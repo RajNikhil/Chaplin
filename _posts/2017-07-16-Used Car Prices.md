@@ -617,7 +617,7 @@ st.probplot(df_newCar_volkswagenGolf.carAge, plot=plt)
 
 
 
-![Distribution-Car Age, Standardized Kilometers and Power](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.pngoutput_42_1.png)
+![Distribution-Car Age, Standardized Kilometers and Power](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_42_1.png)
 
 
 Transformation is a vast topic in statistics and there are multiple transformations in which normal distribution can be achieved. Many times it is all about trying multiple methods and/or values and choose the best ones. Some of the most commonly employed methods are:
@@ -650,7 +650,7 @@ st.probplot(df_newCar_volkswagenGolf['t_carAge'], plot=plt)
 
 
 
-![QQ Plot of Transformed Car Age](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.pngoutput_44_1.png)
+![QQ Plot of Transformed Car Age](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_44_1.png)
 
 
 
@@ -670,7 +670,7 @@ st.probplot(df_newCar_volkswagenGolf.s_powerPS, plot=plt)
 
 
 
-![QQ Plot of Standardized Power PS](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.pngoutput_45_1.png)
+![QQ Plot of Standardized Power PS](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_45_1.png)
 
 
 
@@ -692,7 +692,7 @@ st.probplot(df_newCar_volkswagenGolf['t_powerPS'], plot=plt)
 
 
 
-![QQ Plot of Standardized Power](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.pngoutput_46_1.png)
+![QQ Plot of Standardized Power](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_46_1.png)
 
 
 *Interaction Among Variables*
@@ -878,7 +878,7 @@ plt.title("Prices vs Predicted Prices: $Y_i$ v $\hat{Y}_i$")
 
 
 
-![Actual v Predicted Prices]({{site.url}}https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.pngoutput_66_1.png)
+![Actual v Predicted Prices]({{site.url}}https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_66_1.png)
 
 
 
