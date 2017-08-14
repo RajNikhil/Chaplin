@@ -448,7 +448,7 @@ rot = g.set_xticklabels(g.get_xticklabels(), rotation=90)
 ```
 
 
-![Brand Distribution](https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.png)
+![Brand Distribution]({{site.url}}{{https://github.com/RajNikhil/dataBlog/blob/gh-pages/assets/UsedCarPrices/output_22_0.png)
 
 
 *Filter rows based on a value*
