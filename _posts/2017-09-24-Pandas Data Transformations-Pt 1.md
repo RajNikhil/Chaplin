@@ -1453,7 +1453,7 @@ As mentioned above, it also possible to filter a dataset based on multiple condi
 
 Below, I've filtered the original dataframe 'df', selecting only those rows where the 'employmenttype_jobstatus' is 'Full Time' and also where the 'company' is 'PWC'. 
 
-In order to pass two or more conditions, the original dataframe is called and the coditions are mentioned inside the square brackets the same way as with single condition. However, the difference is, each of those conditions have to be enclosed in parentheses. Also, you have to mention how those multiple conditions have to be fulfilled i.e. should all the condition be satified or one just of them or a combition of the two. In other words, considering the example below, since I wanted both the conditions to be satisfied I used '&' to represent 'and' between the two conditions. To represent 'or' a single pipe symbol, '|' needs to be used instead of '&'.
+In order to pass two or more conditions, the original dataframe is called and the coditions are mentioned inside the square brackets the same way as with single condition. However, the difference is, each of those conditions have to be enclosed in parentheses. Also, you have to mention how those multiple conditions have to be fulfilled i.e. should all the condition be satified or one just of them or a combition of the two. In other words, considering the example below, since I wanted both the conditions to be satisfied I used '&' to represent 'and' between the two conditions. To represent 'or' a single pipe symbol, '\|' needs to be used instead of '&'.
 
 
 ```python
